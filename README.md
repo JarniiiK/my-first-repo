@@ -7,3 +7,5 @@ Ben
 Ik
 
 ![Jarni Kamzol](foto.jpeg)
+
+Hier komt een link naar [zuyd.nl](https://zuyd.nl)
